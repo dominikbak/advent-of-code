@@ -52,6 +52,7 @@ class Action(IntEnum):
     The players get different scores for using different actions.
     Int values are the scores of the actions
     """
+
     ROCK = 1
     PAPER = 2
     SCISSORS = 3
